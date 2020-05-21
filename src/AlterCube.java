@@ -6,7 +6,7 @@ public class AlterCube {
 	public static ArrayList<Integer> scramble()
 	{
 		// the set of moves
-		ArrayList<Integer> moves=new ArrayList<>();
+		ArrayList<Integer> moves=new ArrayList<>(); 
 		// what side to spin
 		int side;
 		// how many times to spin this side

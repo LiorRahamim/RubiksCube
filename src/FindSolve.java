@@ -31,7 +31,7 @@ public class FindSolve {
 	private static ArrayList<Integer> tempSol = new ArrayList<>();
 	private static ArrayList<Integer> solution = new ArrayList<>();
 	private static boolean isSolved = true;
-	private static int[][] cube = new int[6][9];
+	private static int[][] cube = new int[6][9]; 
 
 	public static ArrayList<Integer> solve(int[][] origCube) {
 		

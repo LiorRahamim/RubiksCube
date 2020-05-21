@@ -3,7 +3,7 @@
  * 
  * these variables contain current states of this run
  * 
- */
+ */ 
 
 public class States {
 

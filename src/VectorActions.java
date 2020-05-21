@@ -4,7 +4,7 @@
  */
 public class VectorActions 
 {
-
+ 
      // copy srcVec to vector
 	public static double[] vCopy(double[] vector, double[] srcVec) {
 		vector[0] = srcVec[0];

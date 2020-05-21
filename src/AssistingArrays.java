@@ -6,7 +6,7 @@
  * 1 - down
  * 2 - front
  * 3 - back
- * 4 - left
+ * 4 - left 
  * 5 - right
  * 
  */

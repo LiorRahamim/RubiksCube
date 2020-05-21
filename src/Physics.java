@@ -6,7 +6,7 @@ public class Physics {
 
 
 	// current twisted layer
-	private static int twistedLayer;
+	private static int twistedLayer; 
 	private static int twistedMode;
 	// cube facelets
 	private static int[][] cube = new int[6][9];

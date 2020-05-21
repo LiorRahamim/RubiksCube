@@ -15,7 +15,7 @@ import javax.swing.SwingUtilities;
  * 
  * LIOR RAHAMIM
  * 
- * 2016
+ * 2016 
  */
 
 public final class RubiksCube extends JFrame implements Runnable, MouseListener, MouseMotionListener {

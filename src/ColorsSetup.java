@@ -5,7 +5,7 @@ import java.awt.Color;
  * this class will setup colors using rgb presentation
  */
 
-public class ColorsSetup {
+public class ColorsSetup { 
 
 	private static final Color[] colors = 
 	{ 	
